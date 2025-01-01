@@ -24,10 +24,10 @@ The cartoonified image will be displayed
 
 ## Example Input and Output
 ### Input
-![Input Image](img_photographer.jpg)
+<img src="img_photographer.jpg" alt="Input Image" width="300" />
 
 ### Output
-![Cartoonified Image](img_photographer_cartoonify.PNG)
+<img src="img_photographer_cartoonify.PNG" alt="Cartoonified Image" width="300" />
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting pull requests for additional features or improvements.
