@@ -3,7 +3,7 @@ import cv2
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
-from main import resize_to_fit_window, read_image, apply_cartoon_style
+from cartoonizer_img import resize_to_fit_window, read_image, apply_cartoon_style
 import threading
 
 # CartoonizerApp
